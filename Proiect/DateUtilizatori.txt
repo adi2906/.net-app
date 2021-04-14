@@ -1,0 +1,11 @@
+Dan,30,31231232,Membru,Membri
+Adi,20,312312312,Admin,STAFF
+Random,15,321312312,Moderator,STAFF
+Mircea,23,543514123,Membru,Membri
+Adrian,20,321312312,Membru,Membri
+Test1,31,32141124,Membru,TestGrup1
+Test2,31,32113124,Membru,TestGrup2ddd,32,53252341,Membru,seminar
+ddd,32,313131,Membru,Membri
+testdd,31,5412312312,Membru,testtt
+dd,31,41231212321,Membru,Membri
+test,21,199412414,Moderator,STAFF

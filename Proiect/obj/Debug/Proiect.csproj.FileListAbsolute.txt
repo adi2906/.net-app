@@ -1,0 +1,60 @@
+C:\Visual Studio Proiecte\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Visual Studio Proiecte\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Visual Studio Proiecte\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCUtilizatori.resources
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDrepturi.resources
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCGrupuri.resources
+C:\Visual Studio Proiecte\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCInceput.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDrepturi.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCGrupuri.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCInceput.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCUtilizatori.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\stnsi\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDrepturi.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCGrupuri.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCInceput.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCUtilizatori.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\apsoa\Desktop\test\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDrepturi.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCGrupuri.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCInceput.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCUtilizatori.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDesen.resources
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\bin\Debug\Database.mdf
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\bin\Debug\Database_log.ldf
+C:\Users\apsoa\Desktop\PawCelBun\Proiect\Proiect\obj\Debug\Proiect.PagPrincipala.UCDataBase.resources
